@@ -11,6 +11,5 @@ must be developed individually.
 Application is included 2 separate quizzes (multiply choice) and 
 can be choose randomly with rand() function and can be extended.
 
-
 Application is included simple GUI, developed with CSS3 and HTML5.
 
