@@ -2,7 +2,9 @@ quiz-app
 ====================
 
 Version 1.0.1(PHP5, HTML5, CSS3,)
+
 Created August, 2013
+
 Created by Valery Y. Samovich
 
 Description
