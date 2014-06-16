@@ -20,3 +20,7 @@ Documentaions
  - Created August, 2013
  - Created by Valery Y. Samovich
 
+Developer info
+--------------
+www.linkedin.com/pub/valery-samovich/22/81/1bb/
+
