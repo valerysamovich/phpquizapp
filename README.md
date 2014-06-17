@@ -7,7 +7,7 @@ Application is developed with PHP to provide solution for building a quizzes or 
 Documentaions
 -------------
 
- - Version 1.0.1 (PHP5, HTML5, CSS3,)
+ - Version 1.0.1 (PHP5, HTML5, CSS3)
  - Simple GUI
  - Created August, 2013
  - Created by Valery Y. Samovich
