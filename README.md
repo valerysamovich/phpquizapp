@@ -1,16 +1,7 @@
 quiz-app 
 ====================
 
-Application is developed with PHP to provide solution for building a quizzes or tests. Quiz don't include the database connection and must be developed individually. Application is included 2 separate quizzes (multiply choice) and can be choose randomly with rand() function and can be extended.
-
-
-Documentaions
--------------
-
- - Version 1.0.1 (PHP5, HTML5, CSS3)
- - Simple GUI
- - Created August, 2013
- - Created by Valery Y. Samovich
+Application is developed with PHP5, HTML5, CSS3 an Simple UI to provide solution for building a quizzes or tests. Quiz don't include the database connection and must be developed individually. Application is included 2 separate quizzes (multiply choice) and can be choose randomly with rand() function and can be extended. Created: August 2013.
 
 Developer
 ---------
